@@ -9,10 +9,11 @@ Pyaudio
 pyttsx3
 ```
 # installation of libraries/packages
+```python
 pip install SpeechRecognition  
 pip install Pyaudio  
 pip install pyttsx3
-
+```
 
 # Steps involved
 - Fetching the speech from user using inbuilt/attached microphone
